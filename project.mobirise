@@ -16,8 +16,8 @@
   "pages": {
     "bands.html": {
       "settings": {
-        "title": "Web Builder Title",
-        "meta_descr": "Web Builder Description"
+        "title": "Performing Corps",
+        "meta_descr": "Music on the Mountain, DCI, music on the mountain tickets"
       },
       "components": [
         {
@@ -642,8 +642,8 @@
     },
     "about.html": {
       "settings": {
-        "title": "Website Builder Title",
-        "meta_descr": "Website Builder Description"
+        "title": "About",
+        "meta_descr": "Music on the Mountain, DCI, music on the mountain tickets"
       },
       "components": [
         {
@@ -894,8 +894,8 @@
     },
     "ticket sales.html": {
       "settings": {
-        "title": "Web Maker Title",
-        "meta_descr": "Web Maker Description"
+        "title": "Ticket Sales",
+        "meta_descr": "Music on the Mountain, DCI, music on the mountain tickets"
       },
       "components": [
         {
@@ -1160,8 +1160,8 @@
     "main page.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Main Page",
+        "meta_descr": "Music on the Mountain, DCI, music on the mountain tickets",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
