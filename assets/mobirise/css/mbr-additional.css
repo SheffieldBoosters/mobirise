@@ -1,0 +1,331 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+
+
+
+
+#slider-15 H1 {
+  color: #58cfab;
+  text-align: right;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 46px;
+}
+#ext_menu-o .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-o.mbr-navbar--stuck .mbr-navbar__section {
+  background: #347a9f;
+}
+#ext_menu-o .mbr-navbar__section {
+  background: #347a9f;
+}
+#ext_menu-o .mbr-navbar__hamburger {
+  color: #7ac673;
+}
+#ext_menu-o .mbr-brand__name a {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+}
+#ext_menu-o .mbr-navbar__items a {
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+}
+#features1-r .mbr-section__col .mbr-header__text {
+  color: #3ed1e5;
+  font-size: 18px;
+}
+#features1-r .mbr-section__col .mbr-header__text SPAN {
+  color: #cccccc;
+}
+#features1-r .mbr-section__col .mbr-header__text I {
+  color: #c32724;
+}
+#features1-17 .mbr-section__col .mbr-header__text {
+  color: #3ed1e5;
+  font-size: 19px;
+}
+#features1-17 .mbr-section__col .mbr-header__text SPAN {
+  color: #ffffff;
+}
+#msg-box2-1k .mbr-header .mbr-header__text {
+  color: #efefef;
+  text-align: center;
+}
+#msg-box2-1k .mbr-article {
+  color: #252525;
+}
+#msg-box2-1k .btn {
+  font-size: 14px;
+}
+#contacts2-t STRONG {
+  color: #eac70f;
+}
+#contacts2-t P {
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+}
+#contacts2-t B {
+  color: #cbb469;
+}
+#contacts2-t SPAN {
+  color: #ffffff;
+}
+
+
+
+
+
+
+
+#content5-1h .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 23px;
+}
+#content5-1h .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1h .mbr-article {
+  color: #fff;
+}
+#content5-1h .mbr-article H3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Lora', serif;
+}
+#content5-1h .mbr-article UL {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+#content5-1h .mbr-article P {
+  text-align: center;
+  font-size: 19px;
+  font-family: 'Lora', serif;
+}
+#ext_menu-u .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-u.mbr-navbar--stuck .mbr-navbar__section {
+  background: #347a9f;
+}
+#ext_menu-u .mbr-navbar__hamburger {
+  color: #000000;
+}
+#ext_menu-u .mbr-brand__name a {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+}
+#ext_menu-u .mbr-navbar__items a {
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+}
+#header4-1g .btn {
+  font-size: 25px;
+}
+#header4-1g H1 {
+  color: #3d8eb9;
+}
+#social-buttons2-1i .mbr-header__text {
+  color: #ffffff;
+  text-align: center;
+}
+#contacts2-t STRONG {
+  color: #eac70f;
+}
+#contacts2-t P {
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+}
+#contacts2-t B {
+  color: #cbb469;
+}
+#contacts2-t SPAN {
+  color: #ffffff;
+}
+
+
+
+
+
+
+
+
+#ext_menu-k .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-k.mbr-navbar--stuck .mbr-navbar__section {
+  background: #347a9f;
+}
+#ext_menu-k .mbr-navbar__hamburger {
+  color: #000000;
+}
+#ext_menu-k .mbr-brand__name a {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+}
+#ext_menu-k .mbr-navbar__items a {
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+}
+#pricing-table1-l H3 {
+  color: #ffffff;
+  font-size: 19px;
+  font-family: 'PT Serif', serif;
+}
+#pricing-table1-l SPAN {
+  font-size: 60px;
+}
+#pricing-table1-l P {
+  text-align: center;
+  color: #252525;
+  font-size: 36px;
+  font-family: 'Oswald', sans-serif;
+}
+#pricing-table1-l DIV {
+  text-align: center;
+  font-size: 32px;
+  color: #000000;
+  font-family: 'Oswald', sans-serif;
+}
+#pricing-table1-l SUP {
+  font-size: 25px;
+}
+#content5-1e .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'PT Serif', serif;
+  font-size: 23px;
+}
+#content5-1e .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1e .mbr-article {
+  color: #fff;
+}
+#content5-1e .mbr-article P {
+  text-align: center;
+  font-family: 'Bitter', serif;
+  font-size: 18px;
+  color: #ffffff;
+}
+#content5-1e .mbr-article UL {
+  text-align: left;
+}
+#contacts2-t STRONG {
+  color: #eac70f;
+}
+#contacts2-t P {
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+}
+#contacts2-t B {
+  color: #cbb469;
+}
+#contacts2-t SPAN {
+  color: #ffffff;
+}
+
+
+
+
+
+
+
+
+#header1-8 P {
+  color: #00a885;
+  text-align: center;
+}
+#header1-8 H1 {
+  color: #182d4d;
+  font-size: 72px;
+  text-align: center;
+  font-family: 'PT Serif', serif;
+}
+#header1-8 SPAN {
+  text-align: center;
+  color: #41eaff;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 72px;
+}
+#header1-8 I {
+  color: #3d8eb9;
+  text-align: center;
+  font-family: 'PT Serif', serif;
+  font-size: 60px;
+}
+#content4-19 P {
+  text-align: center;
+  color: #27aae0;
+}
+#content4-19 .btn {
+  font-family: 'Droid Serif', serif;
+  font-size: 18px;
+}
+#content4-19 .mbr-section__col .mbr-header__text {
+  color: #53abb3;
+  font-size: 30px;
+  font-family: 'Droid Serif', serif;
+  text-align: center;
+}
+#content4-19 .mbr-section__col .mbr-header__text SPAN {
+  color: #cccccc;
+  font-size: 30px;
+  text-align: center;
+}
+#social-buttons2-1b .mbr-header__text {
+  color: #ffffff;
+  text-align: center;
+}
+#ext_menu-7 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-7.mbr-navbar--stuck .mbr-navbar__section {
+  background: #347a9f;
+}
+#ext_menu-7 .mbr-navbar__section {
+  background: #347a9f;
+}
+#ext_menu-7 .mbr-navbar__hamburger {
+  color: #7ac673;
+}
+#ext_menu-7 .mbr-brand__name a {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+}
+#ext_menu-7 .mbr-navbar__items a {
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+}
+#contacts2-t STRONG {
+  color: #eac70f;
+}
+#contacts2-t P {
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+}
+#contacts2-t B {
+  color: #cbb469;
+}
+#contacts2-t SPAN {
+  color: #ffffff;
+}
