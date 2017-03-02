@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DCI",
-    "currentPage": "main page.html",
+    "currentPage": "ticket sales.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -724,11 +724,13 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#347a9f"
+              "background": "#3d8eb9"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
             ".mbr-navbar__hamburger": {
-              "color": "#000000"
+              "color": "#7ac673"
             },
             ".mbr-brand__name a": {
               "font-family": "'Noto Sans', sans-serif",
@@ -841,7 +843,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>         "
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/DCIMusicOnTheMountain/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
         },
         {
           "_tags": [
@@ -906,11 +908,13 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#347a9f"
+              "background": "#3d8eb9"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
             ".mbr-navbar__hamburger": {
-              "color": "#000000"
+              "color": "#7ac673"
             },
             ".mbr-brand__name a": {
               "font-family": "'Noto Sans', sans-serif",
@@ -1082,7 +1086,7 @@
           "_params": {
             "showCaption": "noCaption",
             "paddingTop": "1",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -1422,7 +1426,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>         "
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/DCIMusicOnTheMountain/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
         },
         {
           "_inherit": "menu",

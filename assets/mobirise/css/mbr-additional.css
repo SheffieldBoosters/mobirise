@@ -118,10 +118,13 @@
   font-size: 16px;
 }
 #ext_menu-u.mbr-navbar--stuck .mbr-navbar__section {
-  background: #347a9f;
+  background: #3d8eb9;
+}
+#ext_menu-u .mbr-navbar__section {
+  background: #3d8eb9;
 }
 #ext_menu-u .mbr-navbar__hamburger {
-  color: #000000;
+  color: #7ac673;
 }
 #ext_menu-u .mbr-brand__name a {
   font-family: 'Noto Sans', sans-serif;
@@ -168,10 +171,13 @@
   font-size: 16px;
 }
 #ext_menu-k.mbr-navbar--stuck .mbr-navbar__section {
-  background: #347a9f;
+  background: #3d8eb9;
+}
+#ext_menu-k .mbr-navbar__section {
+  background: #3d8eb9;
 }
 #ext_menu-k .mbr-navbar__hamburger {
-  color: #000000;
+  color: #7ac673;
 }
 #ext_menu-k .mbr-brand__name a {
   font-family: 'Noto Sans', sans-serif;
