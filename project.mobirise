@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DCI",
-    "currentPage": "ticket sales.html",
+    "currentPage": "bands.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -17,7 +17,7 @@
     "bands.html": {
       "settings": {
         "title": "Performing Corps",
-        "meta_descr": "Music on the Mountain, DCI, music on the mountain tickets"
+        "meta_descr": "music on the mountain tickets"
       },
       "components": [
         {
@@ -643,7 +643,7 @@
     "about.html": {
       "settings": {
         "title": "About",
-        "meta_descr": "Music on the Mountain, DCI, music on the mountain tickets"
+        "meta_descr": "music on the mountain tickets"
       },
       "components": [
         {
@@ -895,7 +895,7 @@
     "ticket sales.html": {
       "settings": {
         "title": "Ticket Sales",
-        "meta_descr": "Music on the Mountain, DCI, music on the mountain tickets"
+        "meta_descr": "music on the mountain tickets"
       },
       "components": [
         {
@@ -1161,7 +1161,7 @@
       "settings": {
         "main": true,
         "title": "Main Page",
-        "meta_descr": "Music on the Mountain, DCI, music on the mountain tickets",
+        "meta_descr": "music on the mountain tickets",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
