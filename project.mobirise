@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DCI",
-    "currentPage": "bands.html",
+    "currentPage": "ticket sales.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1013,7 +1013,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "firstType": "hidden",
-            "showButtons": true,
+            "showButtons": false,
             "secondType": "green",
             "thirdType": "favorite",
             "fourthType": "hidden",
