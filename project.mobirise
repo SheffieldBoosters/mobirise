@@ -1268,7 +1268,7 @@
             "showButtons": false,
             "showArrow": false
           },
-          "title": "<span style=\"color: rgb(24, 45, 77); font-family: 'PT Serif', serif;\">3rd</span><i> </i><span style=\"font-weight: normal;\">Annual</span><span style=\"color: rgb(24, 45, 77); font-family: 'PT Serif', serif;\">&nbsp;</span><br><span style=\"font-weight: normal;\">\"</span><span style=\"font-weight: normal;\">M</span><span style=\"font-weight: normal;\">usic&nbsp;</span><span style=\"font-weight: normal;\">on &nbsp;</span><span style=\"font-weight: normal;\">the Mountain\"</span><br><i style=\"font-weight: normal;\">Jr. Drum &amp; Bugle Corps Show</i><br><span style=\"font-weight: normal;\">August 4, 2017</span><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">Starts at &nbsp;7:00</span><br><span style=\"font-weight: normal;\">Opens at 4:30</span><span style=\"font-weight: normal;\"><br></span><br>",
+          "title": "<span style=\"color: rgb(24, 45, 77); font-family: 'PT Serif', serif;\">3rd</span><i> </i><span style=\"font-weight: normal;\">Annual</span><span style=\"color: rgb(24, 45, 77); font-family: 'PT Serif', serif;\">&nbsp;</span><br><span style=\"font-weight: normal;\">\"</span><span style=\"font-weight: normal;\">M</span><span style=\"font-weight: normal;\">usic&nbsp;</span><span style=\"font-weight: normal;\">on &nbsp;</span><span style=\"font-weight: normal;\">the Mountain\"</span><br><i style=\"font-weight: normal;\">Jr. Drum &amp; Bugle Corps Show</i><br><span style=\"font-weight: normal;\">August 4, 2017</span><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">Starts at &nbsp;7:00</span><br><span style=\"font-weight: normal;\">Opens at 4:30</span><br>",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
@@ -1583,7 +1583,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<b><i>ADDRESS</i></b><br>Sheffield High School<br>6760 U.S. 6 <br>Sheffield, PA 16347<br><span style=\"line-height: 1.7em;\"><b><i>CONTACT</i></b></span><br><br><b><i>Email: </i></b>sheffieldmusicboosters<br><span style=\"line-height: 1.7em;\">@gmail.com</span><br><i><b>Art Lane [Chairman]:</b><br></i>814-730-7022<br><b><i>Kami Repine {Ticket Sales}:</i></b><br>814-688-1558<b><br></b><br>",
+          "text1": "<b><i>ADDRESS</i></b><br>Sheffield High School<br>6760 U.S. 6 <br>Sheffield, PA 16347<br><span style=\"line-height: 1.7em;\"><b><i>CONTACT</i></b></span><br><b style=\"line-height: 1.7em;\"><i>Email: </i></b><span style=\"line-height: 1.7em;\">sheffieldmusicboosters</span><br><span style=\"line-height: 1.7em;\">@gmail.com</span><br><i><b>Art Lane [Chairman]:</b><br></i>814-730-7022<br><b><i>Kami Repine {Ticket Sales}:</i></b><br>814-688-1558<b><br></b><br>",
           "text2": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><span style=\"line-height: 1.7em;\">Site Design and Direction</span><br></p><p><span style=\"line-height: 1.7em;\">By Elijah Rutenber</span></p>"
         }
       ]
