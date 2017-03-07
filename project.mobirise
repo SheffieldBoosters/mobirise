@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "DCI",
-    "currentPage": "about.html",
+    "currentPage": "bands.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 57,
+    "uniqCompNum": 62,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -28,10 +28,10 @@
           "_name": "slider",
           "_styles": {
             "H1": {
-              "color": "#58cfab",
-              "text-align": "right",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#553982",
+              "text-align": "left",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "46px"
             }
           },
@@ -41,12 +41,12 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/7th-regiment-pl1-16-hires-rgb-2000x1333.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/7th-regiment-pl1-16-hires-rgb-3-2000x1333.jpg",
                 "contentAlign": "right",
                 "overlay": false,
                 "overlayColor": "#000000",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "7th Regiment",
                 "showText": false,
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
@@ -54,10 +54,10 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/blue-devils-b-hl1-16-hires-rgb-2000x1333.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/blue-devils-b-hl1-16-hires-rgb-1-2000x1333.jpg",
                 "contentAlign": "left",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "Blue Devils B",
                 "showText": false,
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
@@ -66,9 +66,9 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/legends-pl1-16-hires-rgb-2000x1328.jpg",
+                "image": "@PROJECT_PATH@/assets/images/legends-pl1-16-hires-rgb-1-2000x1328.jpg",
                 "contentAlign": "right",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "Legends",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -77,9 +77,9 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/louisiana-stars-p1-16-hires-rgb-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/louisiana-stars-p1-16-hires-rgb-2-2000x3000.jpg",
                 "contentAlign": "right",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "Louisiana Stars",
                 "showText": false,
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
@@ -88,9 +88,9 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/music-city-hl1-16-hires-rgb-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/music-city-hl1-16-hires-rgb-2-2000x1333.jpg",
                 "contentAlign": "right",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "Music City",
                 "showText": false,
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
@@ -99,9 +99,9 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/raiders-hl1-16-hires-rgb-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/raiders-hl1-16-hires-rgb-1-2000x1333.jpg",
                 "contentAlign": "right",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "Raiders",
                 "showText": false,
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
@@ -110,9 +110,9 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/southwind-p1-16-hires-rgb-2000x3001.jpg",
+                "image": "@PROJECT_PATH@/assets/images/southwind-p1-16-hires-rgb-1-2000x3001.jpg",
                 "contentAlign": "right",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "Southwind",
                 "showText": false,
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
@@ -711,7 +711,7 @@
           },
           "title": "3rd Annual \"Music on the Mountain\"",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<h3>The 3rd Annual iteration of this event will likely be the largest show in the region. More corps than ever before are going to be performing on August 4th.</h3><ul><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">7th Regiment - New London, CT</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Blue Devils B - Concord, CA</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Legends - Kalamazoo, MI</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Louisiana Stars - Lafayette, LA</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Music City - Nashville, TN</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Raiders - Burlington, NJ</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Southwind - Mobile, AL<br></span></li></ul><p><b>Gates will open about 4:30 and the show will start at 7:00</b></p><p><b>Tickets will be available for sale on June 1st&nbsp;</b></p><p><b>Concession Stand opens at 6:00</b></p><p><b>Free bussing is available from St. Paul's Center to Sheffield High, Starting at 4:30</b></p><p><b>Handicap Parking will be available on the hill</b></p>",
+          "text": "<h3>The 3rd Annual occurence of this event will be the largest show in the region. More corps than ever before are going to be performing on August 4th, 5 of which are within the top &nbsp; 10 DCI band corps in the US</h3><h3><br></h3><ul><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">7th Regiment - New London, CT</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Blue Devils B - Concord, CA</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Legends - Kalamazoo, MI</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Louisiana Stars - Lafayette, LA</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Music City - Nashville, TN</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Raiders - Burlington, NJ</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Southwind - Mobile, AL<br></span></li></ul><p><b>Gates will open at 4:30 and the show will start at 7:00</b></p><p><b>Tickets will be available for sale on June 1st&nbsp;</b></p><p><b>Concession Stand opens at 6:00</b></p><p><b>Free shuttle is available from St. Paul's Center to Sheffield High, Starting at 4:30</b></p><p><b>Handicap Parking will be available on the hill</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -898,6 +898,54 @@
         "meta_descr": "music on the mountain tickets"
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "color": "#debf8a",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1p",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": false,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/carnival-king-red-2-part-raffle-tickets-2000-roll-wlwcnx-clipart-2000x2000.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>Presold Tickets will be entered into a drawing for : a Ticket to a Pirates game, a night at the Shariton hotel, and a visa gift card</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -1101,7 +1149,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.5",
-            "overlayColor": "#000000",
+            "overlayColor": "#3e83a7",
             "showMeta": false,
             "darkBackground": true
           },
@@ -1220,7 +1268,7 @@
             "showButtons": false,
             "showArrow": false
           },
-          "title": "<span style=\"color: rgb(24, 45, 77); font-family: 'PT Serif', serif;\">3rd</span><i> </i><span style=\"font-weight: normal;\">Annual</span><span style=\"color: rgb(24, 45, 77); font-family: 'PT Serif', serif;\">&nbsp;</span><br><span style=\"font-weight: normal;\">\"</span><span style=\"font-weight: normal;\">M</span><span style=\"font-weight: normal;\">usic&nbsp;</span><span style=\"font-weight: normal;\">on &nbsp;</span><span style=\"font-weight: normal;\">the Mountain\"</span><br><br><span style=\"font-weight: normal;\">August 4, 2017</span><br><span style=\"font-weight: normal;\">Starts at &nbsp;7:00</span><span style=\"font-weight: normal;\"><br>Open at approx. 4:30</span><br>",
+          "title": "<span style=\"color: rgb(24, 45, 77); font-family: 'PT Serif', serif;\">3rd</span><i> </i><span style=\"font-weight: normal;\">Annual</span><span style=\"color: rgb(24, 45, 77); font-family: 'PT Serif', serif;\">&nbsp;</span><br><span style=\"font-weight: normal;\">\"</span><span style=\"font-weight: normal;\">M</span><span style=\"font-weight: normal;\">usic&nbsp;</span><span style=\"font-weight: normal;\">on &nbsp;</span><span style=\"font-weight: normal;\">the Mountain\"</span><br><i style=\"font-weight: normal;\">Jr. Drum &amp; Bugle Corps Show</i><br><span style=\"font-weight: normal;\">August 4, 2017</span><br><span style=\"font-weight: normal;\">Starts at &nbsp;7:00</span><span style=\"font-weight: normal;\"><br>Open at 4:30</span><br>",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
@@ -1297,7 +1345,7 @@
               "size": 0
             }
           },
-          "title1": "<span style=\"font-weight: normal;\">Free Bussing available from St. Paul's Center to</span><br><span style=\"font-weight: normal;\">Sheffield High</span><br><span style=\"font-weight: normal;\">{Starting at 4:30}</span><span style=\"font-weight: normal;\"><br></span>",
+          "title1": "<span style=\"font-weight: normal;\">Free Shuttle available from St. Paul's Center to</span><br><span style=\"font-weight: normal;\">Sheffield High</span><br><span style=\"font-weight: normal;\">{Starting at 4:30}</span><span style=\"font-weight: normal;\"><br></span>",
           "caption1": "",
           "button1": " <a data-app-btn=\"true\" href=\"bands.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">See the performing &nbsp;Corps</a> ",
           "media2": {
