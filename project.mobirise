@@ -13,7 +13,17 @@
     "favicon": "",
     "noImageResize": "",
     "mcShopcart": {
-      "email": "sheffieldmusicboosters2@gmail.com"
+      "email": "sheffieldmusicboosters2@gmail.com",
+      "iconSize": "30",
+      "iconColor": "#efefef",
+      "backColor": "#faaf40",
+      "topOffset": "120",
+      "rightOffset": "20",
+      "siteWidth": "1150",
+      "counterSize": "12",
+      "counterColor": "#FFFFFF",
+      "counterBack": "#e97e3e",
+      "checkoutButton": "Check Out with"
     }
   },
   "pages": {
@@ -1064,7 +1074,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "firstType": "hidden",
-            "showButtons": false,
+            "showButtons": true,
             "secondType": "green",
             "thirdType": "favorite",
             "fourthType": "hidden",
