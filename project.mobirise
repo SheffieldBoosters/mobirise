@@ -1097,7 +1097,7 @@
           "price3": "13",
           "period3": "Preorder",
           "list3": "<p><b>$15</b></p><p>At Gate</p>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">Buy</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=13&amp;item_name=Adult+Ticket&amp;currency_code=USD\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">Buy</a>",
           "title4": "ULTIMATE",
           "currency4": "$",
           "price4": "0",
