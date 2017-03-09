@@ -11,7 +11,10 @@
     "uniqCompNum": 62,
     "versionPublish": "3.12.1",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "mcShopcart": {
+      "email": "sheffieldmusicboosters2@gmail.com"
+    }
   },
   "pages": {
     "bands.html": {
@@ -711,7 +714,7 @@
           },
           "title": "3rd Annual \"Music on the Mountain\"",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<h3>The 3rd Annual occurence of this event will be the largest show in the region. More corps than ever before are going to be performing on August 4th, 5 of which are within the top &nbsp; 10 DCI band corps in the US</h3><h3><br></h3><ul><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">7th Regiment - New London, CT</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Blue Devils B - Concord, CA</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Legends - Kalamazoo, MI</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Louisiana Stars - Lafayette, LA</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Music City - Nashville, TN</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Raiders - Burlington, NJ</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Southwind - Mobile, AL<br></span></li></ul><p><b>Gates will open at 4:30 and the show will start at 7:00</b></p><p><b>Tickets will be available for sale on June 1st&nbsp;</b></p><p><b>Concession Stand opens at 6:00</b></p><p><b>Free shuttle is available from St. Paul's Center to Sheffield High, Starting at 4:30</b></p><p><b>Handicap Parking will be available on the hill</b></p>",
+          "text": "<h3>The 3rd Annual occurence of this event will be the largest show in the region. More corps than ever before are going to be performing on August 4th. 5 of which are within the top &nbsp; 10 DCI Drum Corps in the US Open Class</h3><h3><br></h3><ul><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">7th Regiment - New London, CT</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Blue Devils B - Concord, CA</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Legends - Kalamazoo, MI</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Louisiana Stars - Lafayette, LA</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Music City - Nashville, TN</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Raiders - Burlington, NJ</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Southwind - Mobile, AL<br></span></li></ul><p><b>Gates will open at 4:30 and the show will start at 7:00</b></p><p><b>Tickets will be available for sale on June 1st&nbsp;</b></p><p><b>Concession Stand opens at 4:30</b></p><p><b>Free shuttle is available from St. Paul's Center to Sheffield High, Starting at 4:30</b></p><p><b>Handicap Parking will be available on the hill</b></p><p><b>!No video or audio recording is permitted during the event!</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -943,7 +946,7 @@
           },
           "title": "MODERN STYLES",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>Presold Tickets will be entered into a drawing for : a Ticket to a Pirates game, a night at the Shariton hotel, and a visa gift card</b></p>",
+          "text": "<p><b>Presold Tickets will be entered into a drawing for : Two tickets to a Pirates game, a night at the Sheraton hotel, and a visa gift card</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1078,7 +1081,7 @@
           "price2": "8&nbsp;<br><br>",
           "period2": "Preorder",
           "list2": "<p><b>$10</b></p><p>At Gate</p>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">Buy</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=8&amp;item_name=Child+Ticket&amp;currency_code=USD\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">Buy</a>",
           "title3": "Adult Ticket",
           "currency3": "$",
           "price3": "13",
@@ -1385,7 +1388,7 @@
               "size": 0
             }
           },
-          "title3": "<span style=\"font-weight: normal; line-height: 1.1em;\">Handicap Parking available on hill</span><br><i>----------------------</i><br><span style=\"font-weight: normal;\">Concession stand opens at 6:00</span><br>",
+          "title3": "<span style=\"font-weight: normal; line-height: 1.1em;\">Handicap Parking available on hill</span><br><i>----------------------</i><br><span style=\"font-weight: normal;\">Concession stand opens at 4:30</span><br>",
           "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"ticket sales.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span><br>&nbsp;Buy Tickets Now<br></a>",
           "media4": {
