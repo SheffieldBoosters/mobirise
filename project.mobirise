@@ -55,7 +55,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/7th-regiment-pl1-16-hires-rgb-3-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7th_regiment_pl1_16_hires_rgb-3-2000x1333.jpg",
                 "contentAlign": "right",
                 "overlay": false,
                 "overlayColor": "#000000",
@@ -68,7 +68,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/blue-devils-b-hl1-16-hires-rgb-1-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blue_devils_b_hl1_16_hires_rgb-1-2000x1333.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Blue Devils B",
@@ -79,7 +79,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/legends-pl1-16-hires-rgb-1-2000x1328.jpg",
+                "image": "@PROJECT_PATH@/assets/images/legends_pl1_16_hires_rgb-1-2000x1328.jpg",
                 "contentAlign": "right",
                 "showTitle": false,
                 "title": "Legends",
@@ -90,7 +90,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/louisiana-stars-p1-16-hires-rgb-2-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/louisiana_stars_p1_16_hires_rgb-2-2000x3000.jpg",
                 "contentAlign": "right",
                 "showTitle": false,
                 "title": "Louisiana Stars",
@@ -101,7 +101,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/music-city-hl1-16-hires-rgb-2-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/music_city_hl1_16_hires_rgb-2-2000x1333.jpg",
                 "contentAlign": "right",
                 "showTitle": false,
                 "title": "Music City",
@@ -112,7 +112,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/raiders-hl1-16-hires-rgb-1-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/raiders_hl1_16_hires_rgb-1-2000x1333.jpg",
                 "contentAlign": "right",
                 "showTitle": false,
                 "title": "Raiders",
@@ -123,7 +123,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/southwind-p1-16-hires-rgb-1-2000x3001.jpg",
+                "image": "@PROJECT_PATH@/assets/images/southwind_p1_16_hires_rgb-1-2000x3001.jpg",
                 "contentAlign": "right",
                 "showTitle": false,
                 "title": "Southwind",
@@ -184,7 +184,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/circle-dci-color-logo-800x800-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/circle_dci%E2%94%AC%C2%AB_color_logo_800x800-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -252,7 +252,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/southwind-h1-16-hires-rgb-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/southwind_h1_16_hires_rgb-600x900.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -276,7 +276,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blue-devils-b-h1-16-hires-rgb-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/blue_devils_b_h1_16_hires_rgb-600x900.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -300,7 +300,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/legends-h1-16-hires-rgb-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/legends_h1_16_hires_rgb-600x900.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -324,7 +324,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/louisiana-stars-h1-16-hires-rgb-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/louisiana_stars_h1_16_hires_rgb-600x900.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -430,7 +430,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/louisiana-stars-h1-16-hires-rgb-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/louisiana_stars_h1_16_hires_rgb-600x900.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -454,7 +454,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/music-city-p1-16-hires-rgb-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/music_city_p1_16_hires_rgb-600x900.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -478,7 +478,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/raiders-p1-16-hires-rgb-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/raiders_p1_16_hires_rgb-600x900.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -502,7 +502,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/7th-regiment-p1-16-hires-rgb-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/7th_regiment_p1_16_hires_rgb-600x900.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -635,7 +635,7 @@
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/16881002-1361666123886211-1459880976-o-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/16881002_1361666123886211_1459880976_o-2000x1500.jpg",
             "bgColor": "#3c3c3c",
             "bgColorRadio": false,
             "overlay": true,
@@ -709,7 +709,7 @@
             "showButton": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/16910604-1361666287219528-1000464974-o-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/16910604_1361666287219528_1000464974_o-2000x1500.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -771,7 +771,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/circle-dci-color-logo-800x800-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/circle_dci%E2%94%AC%C2%AB_color_logo_800x800-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -887,7 +887,7 @@
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/16881002-1361666123886211-1459880976-o-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/16881002_1361666123886211_1459880976_o-2000x1500.jpg",
             "bgColor": "#3c3c3c",
             "bgColorRadio": false,
             "overlay": true,
@@ -1003,7 +1003,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/circle-dci-color-logo-800x800-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/circle_dci%E2%94%AC%C2%AB_color_logo_800x800-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1063,7 +1063,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/16910604-1361666287219528-1000464974-o-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/16910604_1361666287219528_1000464974_o-2000x1500.jpg",
             "bgColor": "#f0f0f0",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1200,7 +1200,7 @@
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/16881002-1361666123886211-1459880976-o-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/16881002_1361666123886211_1459880976_o-2000x1500.jpg",
             "bgColor": "#3c3c3c",
             "bgColorRadio": false,
             "overlay": true,
@@ -1265,7 +1265,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/16880304-1361666340552856-1626310878-o-4-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/16880304_1361666340552856_1626310878_o-4-2000x1500.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1320,7 +1320,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/15390832-1154922654602875-2823957064999649008-n-1-2000x2666.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/15390832_1154922654602875_2823957064999649008_n-1-2000x2666.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1533,7 +1533,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/circle-dci-color-logo-800x800-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/circle_dci%E2%94%AC%C2%AB_color_logo_800x800-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1583,7 +1583,7 @@
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/16881002-1361666123886211-1459880976-o-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/16881002_1361666123886211_1459880976_o-2000x1500.jpg",
             "bgColor": "#3c3c3c",
             "bgColorRadio": false,
             "overlay": true,
