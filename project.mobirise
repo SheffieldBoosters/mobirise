@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DCI",
-    "currentPage": "main page.html",
+    "currentPage": "ticket sales.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -998,7 +998,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/16910604-1361666287219528-1000464974-o-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/16880706-1361666183886205-629338373-o-2000x1500.jpg",
             "bgColor": "#f0f0f0",
             "bgColorRadio": false,
             "bgVideo": {
