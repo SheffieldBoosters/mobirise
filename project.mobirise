@@ -141,71 +141,6 @@
           "articleLayout": false
         },
         {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#347a9f"
-            },
-            ".mbr-navbar__section": {
-              "background": "#347a9f"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#7ac673"
-            },
-            ".mbr-brand__name a": {
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "font-size": "20px"
-            },
-            ".mbr-navbar__items a": {
-              "font-size": "15px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-o",
-          "_params": {
-            "color": "#347a9f",
-            "hamburgerColor": "#7ac673",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
-            "logo": true,
-            "showBrand": false,
-            "showButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/circle-dci-color-logo-800x800-128x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "main Page.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"main page.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"main Page.html#contacts2-t\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"bands.html\">Performing Corps</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\">Ticket Sales</a></li>            ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\" data-toolbar=\"-mbrBtnMove\">Tickets Available Online Now!</a></li>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -650,6 +585,71 @@
           },
           "text1": "<b><i>ADDRESS</i></b><br>Sheffield High School<br>6760 U.S. 6 <br>Sheffield, PA 16347<br><span style=\"line-height: 1.7em;\"><b><i>CONTACT</i></b></span><br><b style=\"line-height: 1.7em;\"><i>Email: </i></b><span style=\"line-height: 1.7em;\">sheffieldmusicboosters</span><br><span style=\"line-height: 1.7em;\">@gmail.com</span><br><i><b>Art Lane [Chairman]:</b><br></i>814-730-7022<br><b><i>Kami Repine {Ticket Sales}:</i></b><br>814-688-1558<b><br></b><br>",
           "text2": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><span style=\"line-height: 1.7em;\">Site Design and Direction</span><br></p><p><span style=\"line-height: 1.7em;\">By Elijah Rutenber</span></p>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#347a9f"
+            },
+            ".mbr-navbar__section": {
+              "background": "#347a9f"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#7ac673"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "20px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-7",
+          "_params": {
+            "color": "#347a9f",
+            "hamburgerColor": "#7ac673",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/picture1-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "main page.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"main page.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"main Page.html#contacts2-t\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"bands.html\">Performing Corps</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\">Ticket Sales</a></li>            ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\" data-toolbar=\"-mbrBtnMove\">Tickets Available Online Now!</a></li>"
         }
       ]
     },
@@ -726,71 +726,6 @@
           "meta": "By John Smith posted July 30, 2015",
           "text": "<h3>The 3rd Annual occurence of this event will be the largest show in the region. More corps than ever before are going to be performing on August 4th. 5 of which are within the top &nbsp; 10 DCI Drum Corps in the US Open Class</h3><h3><br></h3><ul><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">7th Regiment - New London, CT</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Blue Devils B - Concord, CA</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Legends - Kalamazoo, MI</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Louisiana Stars - Lafayette, LA</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Music City - Nashville, TN</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Raiders - Burlington, NJ</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Southwind - Mobile, AL<br></span></li></ul><p><b>Gates will open at 4:30 and the show will start at 7:00</b></p><p><b>Tickets will be available for sale on June 1st&nbsp;</b></p><p><b>Concession Stand opens at 4:30</b></p><p><b>Free shuttle is available from St. Paul's Center to Sheffield High, Starting at 4:30</b></p><p><b>Handicap Parking will be available on the hill</b></p><p><b>!No video or audio recording is permitted during the event!</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#3d8eb9"
-            },
-            ".mbr-navbar__section": {
-              "background": "#3d8eb9"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#7ac673"
-            },
-            ".mbr-brand__name a": {
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "font-size": "20px"
-            },
-            ".mbr-navbar__items a": {
-              "font-size": "15px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-u",
-          "_params": {
-            "color": "#3d8eb9",
-            "hamburgerColor": "#7ac673",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
-            "logo": true,
-            "showBrand": false,
-            "showButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/circle-dci-color-logo-800x800-128x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "main Page.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"main page.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"main Page.html#contacts2-t\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"bands.html\">Performing Corps</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\">Ticket Sales</a></li>            ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\" data-toolbar=\"-mbrBtnMove\">Tickets Available Online Now!</a></li>"
         },
         {
           "_inherit": "header1",
@@ -902,6 +837,71 @@
           },
           "text1": "<b><i>ADDRESS</i></b><br>Sheffield High School<br>6760 U.S. 6 <br>Sheffield, PA 16347<br><span style=\"line-height: 1.7em;\"><b><i>CONTACT</i></b></span><br><b style=\"line-height: 1.7em;\"><i>Email: </i></b><span style=\"line-height: 1.7em;\">sheffieldmusicboosters</span><br><span style=\"line-height: 1.7em;\">@gmail.com</span><br><i><b>Art Lane [Chairman]:</b><br></i>814-730-7022<br><b><i>Kami Repine {Ticket Sales}:</i></b><br>814-688-1558<b><br></b><br>",
           "text2": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><span style=\"line-height: 1.7em;\">Site Design and Direction</span><br></p><p><span style=\"line-height: 1.7em;\">By Elijah Rutenber</span></p>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#347a9f"
+            },
+            ".mbr-navbar__section": {
+              "background": "#347a9f"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#7ac673"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "20px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-7",
+          "_params": {
+            "color": "#347a9f",
+            "hamburgerColor": "#7ac673",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/picture1-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "main page.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"main page.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"main Page.html#contacts2-t\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"bands.html\">Performing Corps</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\">Ticket Sales</a></li>            ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\" data-toolbar=\"-mbrBtnMove\">Tickets Available Online Now!</a></li>"
         }
       ]
     },
@@ -958,71 +958,6 @@
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><b>Presold Tickets will be entered into a drawing for : Two tickets to a Pirates game, a night at the Sheraton hotel, and a visa gift card</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#3d8eb9"
-            },
-            ".mbr-navbar__section": {
-              "background": "#3d8eb9"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#7ac673"
-            },
-            ".mbr-brand__name a": {
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "font-size": "20px"
-            },
-            ".mbr-navbar__items a": {
-              "font-size": "15px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-k",
-          "_params": {
-            "color": "#3d8eb9",
-            "hamburgerColor": "#7ac673",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
-            "logo": true,
-            "showBrand": false,
-            "showButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/circle-dci-color-logo-800x800-128x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "main page.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"main page.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"main Page.html#contacts2-t\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"bands.html\">Performing Corps</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\">Ticket Sales</a></li>            ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\" data-toolbar=\"-mbrBtnMove\">Tickets Available Online Now!</a></li>"
         },
         {
           "_tags": [
@@ -1215,6 +1150,71 @@
           },
           "text1": "<b><i>ADDRESS</i></b><br>Sheffield High School<br>6760 U.S. 6 <br>Sheffield, PA 16347<br><span style=\"line-height: 1.7em;\"><b><i>CONTACT</i></b></span><br><b style=\"line-height: 1.7em;\"><i>Email: </i></b><span style=\"line-height: 1.7em;\">sheffieldmusicboosters</span><br><span style=\"line-height: 1.7em;\">@gmail.com</span><br><i><b>Art Lane [Chairman]:</b><br></i>814-730-7022<br><b><i>Kami Repine {Ticket Sales}:</i></b><br>814-688-1558<b><br></b><br>",
           "text2": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><span style=\"line-height: 1.7em;\">Site Design and Direction</span><br></p><p><span style=\"line-height: 1.7em;\">By Elijah Rutenber</span></p>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#347a9f"
+            },
+            ".mbr-navbar__section": {
+              "background": "#347a9f"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#7ac673"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "20px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-7",
+          "_params": {
+            "color": "#347a9f",
+            "hamburgerColor": "#7ac673",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/picture1-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "main page.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"main page.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"main Page.html#contacts2-t\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"bands.html\">Performing Corps</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\">Ticket Sales</a></li>            ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\" data-toolbar=\"-mbrBtnMove\">Tickets Available Online Now!</a></li>"
         }
       ]
     },
