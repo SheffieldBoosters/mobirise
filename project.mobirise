@@ -14,15 +14,15 @@
     "noImageResize": "",
     "mcShopcart": {
       "email": "sheffieldmusicboosters2@gmail.com",
-      "iconSize": "30",
-      "iconColor": "#ffffff",
-      "backColor": "#7ac673",
-      "topOffset": "120",
-      "rightOffset": "20",
+      "iconSize": "41",
+      "iconColor": "#efefef",
+      "backColor": "#3d8eb9",
+      "topOffset": "130",
+      "rightOffset": "22",
       "siteWidth": "1150",
-      "counterSize": "12",
-      "counterColor": "#FFFFFF",
-      "counterBack": "#edaa46",
+      "counterSize": "16",
+      "counterColor": "#ffffff",
+      "counterBack": "#ffaf48",
       "checkoutButton": "Check Out with"
     }
   },
@@ -54,7 +54,7 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/7th-regiment-pl1-16-hires-rgb-3-2000x1333.jpg",
                 "contentAlign": "right",
                 "overlay": false,
@@ -89,8 +89,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/louisiana-stars-p1-16-hires-rgb-2-2000x3000.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/louisiana-stars-p1-16-hires-rgb-3-2000x3000.jpg",
                 "contentAlign": "right",
                 "showTitle": false,
                 "title": "Louisiana Stars",
