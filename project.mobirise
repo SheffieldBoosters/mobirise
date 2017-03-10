@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DCI",
-    "currentPage": "ticket sales.html",
+    "currentPage": "main page.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1533,7 +1533,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/circle-dci-color-logo-800x800-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/picture1-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
