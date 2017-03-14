@@ -30,7 +30,7 @@
     "bands.html": {
       "settings": {
         "title": "Performing Corps",
-        "meta_descr": "music on the mountain tickets"
+        "meta_descr": "sheffieldmusiconthemountain.com"
       },
       "components": [
         {
@@ -656,7 +656,7 @@
     "about.html": {
       "settings": {
         "title": "About",
-        "meta_descr": "music on the mountain tickets"
+        "meta_descr": "sheffieldmusiconthemountain.com"
       },
       "components": [
         {
@@ -908,7 +908,7 @@
     "ticket sales.html": {
       "settings": {
         "title": "Ticket Sales",
-        "meta_descr": "music on the mountain tickets"
+        "meta_descr": "sheffieldmusiconthemountain.com"
       },
       "components": [
         {
@@ -1222,7 +1222,7 @@
       "settings": {
         "main": true,
         "title": "Main Page",
-        "meta_descr": "music on the mountain tickets",
+        "meta_descr": "sheffieldmusiconthemountain.com <meta name=\"google-site-verification\" content=\"Voe1YxePbKRqaX6pGSFIiO_HPkTL2iUyUgl8YYhhy4Y\" />",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
