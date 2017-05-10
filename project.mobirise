@@ -1223,7 +1223,7 @@
       "settings": {
         "main": true,
         "title": "Main Page",
-        "meta_descr": "<meta name=\"music on the mountain\" content=\"music on the mountain, sheffield music on the mountain\"> ",
+        "meta_descr": "<meta name=\"music on the mountain\" content=\"music on the mountain, sheffield music on the mountain\"> <meta name=\"description\" content=\"Music on the Mountain, Sheffield, Pennsylvania. 153 likes. 2017 Drum Corps International (DCI) Open Class competition, August 4, Time TBA. See some of...\" />",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
