@@ -31,7 +31,7 @@
     "bands.html": {
       "settings": {
         "title": "Performing Corps",
-        "meta_descr": "sheffieldmusiconthemountain.com sheffield music on the mountain "
+        "meta_descr": "Sheffieldmusiconthemountain.com. Sheffield music on the mountain. "
       },
       "components": [
         {
@@ -657,7 +657,7 @@
     "about.html": {
       "settings": {
         "title": "About",
-        "meta_descr": "sheffieldmusiconthemountain.com sheffield music on the mountain "
+        "meta_descr": "Sheffieldmusiconthemountain.com. Sheffield music on the mountain."
       },
       "components": [
         {
@@ -909,7 +909,7 @@
     "ticket sales.html": {
       "settings": {
         "title": "Ticket Sales",
-        "meta_descr": "sheffieldmusiconthemountain.com sheffield music on the mountain "
+        "meta_descr": "Sheffieldmusiconthemountain.com. Sheffield music on the mountain."
       },
       "components": [
         {
@@ -1223,7 +1223,7 @@
       "settings": {
         "main": true,
         "title": "Main Page",
-        "meta_descr": "<meta name=\"description\" content=\"music on the mountain, sheffield music on the mountain\"> <meta name=\"description\" content=\"Music on the Mountain, Sheffield, Pennsylvania. 153 likes. 2017 Drum Corps International (DCI) Open Class competition, August 4, Time TBA. See some of...\" />",
+        "meta_descr": "Sheffieldmusiconthemountain.com. Sheffield music on the mountain. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
