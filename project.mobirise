@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "DCI",
+    "name": "SheffieldMusicontheMountain",
     "currentPage": "main page.html",
     "theme": {
       "name": "default",
@@ -24,7 +24,8 @@
       "counterColor": "#ffffff",
       "counterBack": "#ffaf48",
       "checkoutButton": "Check Out with"
-    }
+    },
+    "google-analytics": ""
   },
   "pages": {
     "bands.html": {
@@ -1222,7 +1223,7 @@
       "settings": {
         "main": true,
         "title": "Main Page",
-        "meta_descr": "sheffieldmusiconthemountain.com sheffield music on the mountain ",
+        "meta_descr": "<meta name=\"music on the mountain\" content=\"music on the mountain, sheffield music on the mountain\"> ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
