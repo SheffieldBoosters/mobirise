@@ -68,3 +68,6 @@
   padding: 3px;
   position: absolute;
   z-index: 1000; }
+#mc-shopcart {
+  cursor: pointer;
+}

@@ -1,186 +1,238 @@
 {
   "settings": {
     "name": "SheffieldMusicontheMountain",
-    "currentPage": "main page.html",
+    "currentPage": "ticket sales.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
-      "styling": {}
+      "styling": {},
+      "additionalSetColors": [
+        "#0b4881",
+        "#347a9f",
+        "#960000",
+        "#2365a3",
+        "#364db9",
+        "#061350",
+        "#3ed1e5"
+      ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 62,
-    "versionPublish": "3.12.1",
-    "favicon": "",
+    "uniqCompNum": 137,
+    "versionPublish": "4.7.2",
+    "favicon": "@PROJECT_PATH@/assets/images/dci-logo-128x1282.png",
     "noImageResize": "",
     "mcShopcart": {
       "email": "sheffieldmusicboosters2@gmail.com",
       "iconSize": "41",
-      "iconColor": "#efefef",
+      "iconColor": "#ffffff",
       "backColor": "#3d8eb9",
       "topOffset": "130",
       "rightOffset": "22",
       "siteWidth": "1150",
       "counterSize": "16",
       "counterColor": "#ffffff",
-      "counterBack": "#ffaf48",
+      "counterBack": "#fac51c",
       "checkoutButton": "Check Out with"
     },
-    "google-analytics": ""
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "siteUrl": "http://sheffieldmusiconthemountain.com",
+    "sitemapSwitcherAuto": "on",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "bands.html": {
       "settings": {
         "title": "Performing Corps",
-        "meta_descr": "Sheffieldmusiconthemountain.com. Sheffield music on the mountain. "
+        "meta_descr": "sheffieldmusiconthemountain.com sheffield music on the mountain ",
+        "order": 2
       },
       "components": [
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/3-1-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4-2-2000x1333.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3-2-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, herimages, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3-4-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Impulse",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4-1-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
           "_tags": [
             "Theme"
           ],
           "_name": "slider",
+          "_anchor": "slider-27",
           "_styles": {
             "H1": {
-              "color": "#553982",
-              "text-align": "left",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "46px"
+              "color": "#f7da64"
             }
-          },
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/7th-regiment-pl1-16-hires-rgb-3-2000x1333.jpg",
-                "contentAlign": "right",
-                "overlay": false,
-                "overlayColor": "#000000",
-                "showTitle": false,
-                "title": "7th Regiment",
-                "showText": false,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/blue-devils-b-hl1-16-hires-rgb-1-2000x1333.jpg",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "Blue Devils B",
-                "showText": false,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/legends-pl1-16-hires-rgb-1-2000x1328.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "Legends",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/louisiana-stars-p1-16-hires-rgb-3-2000x3000.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "Louisiana Stars",
-                "showText": false,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/music-city-hl1-16-hires-rgb-2-2000x1333.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "Music City",
-                "showText": false,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/raiders-hl1-16-hires-rgb-1-2000x1333.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "Raiders",
-                "showText": false,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/southwind-p1-16-hires-rgb-1-2000x3001.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "Southwind",
-                "showText": false,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": true,
-            "bgColor": "#ffffff",
-            "showBullets": false
-          },
-          "_anchor": "slider-15",
-          "articleLayout": false
+          }
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_styles": {
-            ".mbr-section__col .mbr-header__text": {
-              "color": "#3ed1e5",
-              "font-size": "18px"
-            },
-            ".mbr-section__col .mbr-header__text SPAN": {
-              "color": "#cccccc"
-            },
-            ".mbr-section__col .mbr-header__text I": {
-              "color": "#c32724"
-            }
-          },
-          "_anchor": "features1-r",
+          "_inherit": "msg-box5",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "42",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#060606",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rogues-hollow-390x125.png",
+              "link": "https://www.rogueshollowregiment.com",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Special Exhibition Act by <br>Rougues Hollow Regiment!",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2z"
+        },
+        {
+          "_params": {
             "showHeader": false,
             "showSubheader": false,
-            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showCaptions": false,
-            "showButtons": true
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "headerAlign": "left",
           "header": "DROP-DEAD EASY WEBSITE MAKER",
@@ -188,13 +240,12 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/southwind-h1-16-hires-rgb-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3-600x900.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -206,19 +257,18 @@
               "size": 0
             }
           },
-          "title1": "Southwind",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"http://www.southwind.org/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "title1": "Raiders : <span style=\"font-weight: normal;\"><i>Burlington, NJ</i></span>",
+          "caption1": "Burlington, NJ",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.raidersdbc.org/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blue-devils-b-h1-16-hires-rgb-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2-600x900.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -230,19 +280,18 @@
               "size": 0
             }
           },
-          "title2": "Blue Devils B",
+          "title2": "Impulse : <span style=\"font-weight: normal;\"><i>Buena Park, CA</i></span>",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://bluedevils.org/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.impulseyoutharts.org/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/legends-h1-16-hires-rgb-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1-600x900.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -254,19 +303,15 @@
               "size": 0
             }
           },
-          "title3": "Legends",
+          "title3": "Les Stentors : <span style=\"font-weight: normal;\"><i>Sherbrooke, Quebec, Canada</i></span>",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"http://www.legendspaa.org/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.stentors.net/accueil.php\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/louisiana-stars-h1-16-hires-rgb-600x900.jpg",
+              "src": "images/unlimited-websites.png",
               "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "width": 600
             },
             "video": {
               "class": "mbr-figure__img",
@@ -278,7 +323,7 @@
               "size": 0
             }
           },
-          "title4": "BAND 4",
+          "title4": "UNLIMITED WEBSITES",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
@@ -320,45 +365,50 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
-        },
-        {
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "features1",
+          "_anchor": "features1-2r",
           "_styles": {
             ".mbr-section__col .mbr-header__text": {
               "color": "#3ed1e5",
-              "font-size": "19px"
+              "font-size": "20px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "16px"
             },
             ".mbr-section__col .mbr-header__text SPAN": {
-              "color": "#ffffff"
+              "color": "#cccccc",
+              "font-size": "14px"
             }
-          },
-          "_anchor": "features1-17",
+          }
+        },
+        {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#060606",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showHeader": false,
             "showSubheader": false,
-            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showCaptions": false,
-            "showButtons": true
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "headerAlign": "left",
           "header": "DROP-DEAD EASY WEBSITE MAKER",
@@ -366,13 +416,12 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/louisiana-stars-h1-16-hires-rgb-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2-1-600x900.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -384,19 +433,18 @@
               "size": 0
             }
           },
-          "title1": "Louisiana Stars",
+          "title1": "Spartans : <span style=\"font-weight: normal;\"><i>Nashua, NH</i></span>",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"http://www.louisianastars.org/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://spartansdbc.org/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/music-city-p1-16-hires-rgb-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2-2-600x900.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -408,19 +456,18 @@
               "size": 0
             }
           },
-          "title2": "Music City",
+          "title2": "7th Regiment : <span style=\"font-weight: normal;\"><i>New London, CT</i></span>",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"http://musiccitydrumcorps.org/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.seventhregiment.org/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/raiders-p1-16-hires-rgb-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/4-600x900.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -432,19 +479,15 @@
               "size": 0
             }
           },
-          "title3": "Raiders",
+          "title3": "Legends : <span style=\"font-weight: normal;\"><i>Kalamazoo, MI</i></span>",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"http://www.raidersdbc.org/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.legendspaa.org/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/7th-regiment-p1-16-hires-rgb-600x900.jpg",
+              "src": "images/unlimited-websites.png",
               "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "width": 600
             },
             "video": {
               "class": "mbr-figure__img",
@@ -456,9 +499,9 @@
               "size": 0
             }
           },
-          "title4": "7th Regiment&nbsp;",
+          "title4": "UNLIMITED WEBSITES",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"http://www.7raa.org/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -498,94 +541,66 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
-        },
-        {
-          "_inherit": "msg-box1",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#efefef",
-              "text-align": "center"
-            },
-            ".mbr-article": {
-              "color": "#252525"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          },
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-1k",
+          "_name": "features1",
+          "_anchor": "features1-2s",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#3ed1e5",
+              "font-size": "19px"
+            },
+            ".mbr-section__col .mbr-header__text SPAN": {
+              "color": "#cccccc",
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "23px"
+            }
+          },
           "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": true,
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#2e6d87",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#347a9f",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
+            "darkBackground": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
-          "title": "Learn More About the Event",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> "
-        },
-        {
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">Learn More About the Event</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_styles": {
-            "STRONG": {
-              "color": "#eac70f"
-            },
-            "P": {
-              "text-align": "center",
-              "font-size": "15px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#ffffff"
-            },
-            "B": {
-              "color": "#cbb469"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts2-t",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/16881002-1361666123886211-1459880976-o-2000x1500.jpg",
-            "bgColor": "#3c3c3c",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "Sheffield High School\n6760 U.S. 6 \nSheffield, PA 16347",
-              "placeId": "ChIJ3bDEnHRAzYkRzzdwKZOLiLk",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<b><i>ADDRESS</i></b><br>Sheffield High School<br>6760 U.S. 6 <br>Sheffield, PA 16347<br><span style=\"line-height: 1.7em;\"><b><i>CONTACT</i></b></span><br><b style=\"line-height: 1.7em;\"><i>Email: </i></b><span style=\"line-height: 1.7em;\">sheffieldmusicboosters</span><br><span style=\"line-height: 1.7em;\">@gmail.com</span><br><i><b>Art Lane [Chairman]:</b><br></i>814-730-7022<br><b><i>Kami Repine {Ticket Sales}:</i></b><br>814-688-1558<b><br></b><br>",
-          "text2": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><span style=\"line-height: 1.7em;\">Site Design and Direction</span><br></p><p><span style=\"line-height: 1.7em;\">By Elijah Rutenber</span></p>"
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2t"
         },
         {
           "_inherit": "menu",
@@ -603,7 +618,7 @@
               "background": "#347a9f"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#7ac673"
+              "color": "#4c6972"
             },
             ".mbr-brand__name a": {
               "font-family": "'Noto Sans', sans-serif",
@@ -619,19 +634,19 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-7",
           "_params": {
-            "color": "#347a9f",
-            "hamburgerColor": "#7ac673",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
             "logo": true,
             "showBrand": false,
-            "showButtons": true
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#347a9f",
+            "hamburgerColor": "#4c6972"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/picture1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/dci-logo-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -649,15 +664,58 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"main page.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"main Page.html#contacts2-t\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"bands.html\">Performing Corps</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\">Ticket Sales</a></li>            ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\" data-toolbar=\"-mbrBtnMove\">Tickets Available Online Now!</a></li>"
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"main page.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">About</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html#contacts2-38\">Contact</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"bands.html\">Performing Corps</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\">Ticket Sales</a></li>              ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\" data-toolbar=\"-mbrBtnMove\">Tickets Available Online : Until July 25th!</a></li> "
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/3-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "350 5th Ave, New York, NY 6760 U.S. 6 \nSheffield, PA 16347 ",
+              "placeId": "ChIJ3bDEnHRAzYkRzzdwKZOLiLk",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>CONTACT \n</b><br>\n<br><i><b>Email: \n</b></i><br>sheffieldmusicboosters@gmail.com <br>\n<br><b><i>Art Lane [Chairman]: \n</i></b><br>814-730-7022<br> \n<br><b><i>Kamie Repine </i></b><b><i>{Ticket Sales}:</i> \n</b><br>814-688-1558",
+          "text2": "<p><b>ADDRESS<i>\n</i></b><br></p><p>\nSheffield High School &nbsp;</p><p>6760 U.S. 6 &nbsp;</p><p>\nSheffield, PA 16347&nbsp;</p><p><br></p><p><br></p><p><br></p><p>Site Design and Direction by<br></p><p>Elijah Rutenber</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-38",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#efefef",
+              "font-size": "15px"
+            },
+            "I": {
+              "font-size": "16px",
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#efefef",
+              "font-size": "16px"
+            }
+          }
         }
       ]
     },
     "about.html": {
       "settings": {
         "title": "About",
-        "meta_descr": "Sheffieldmusiconthemountain.com. Sheffield music on the mountain."
+        "meta_descr": "sheffieldmusiconthemountain.com sheffield music on the mountain ",
+        "order": 3
       },
       "components": [
         {
@@ -665,10 +723,7 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#fff",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "23px"
+              "color": "#fff"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -677,95 +732,391 @@
             ".mbr-article": {
               "color": "#fff"
             },
-            ".mbr-article H3": {
-              "color": "#ffffff",
-              "text-align": "center",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-article UL": {
-              "text-align": "center",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "18px"
-            },
             ".mbr-article P": {
-              "text-align": "center",
-              "font-size": "19px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "text-align": "center"
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-1h",
           "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": 3,
-            "paddingBottom": 3,
             "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "4",
             "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-232-2000x1330.jpg",
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/16910604-1361666287219528-1000464974-o-2000x1500.jpg",
-            "bgColor": "#fff",
             "bgColorRadio": false,
+            "bgColor": "#061350",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
+            "darkBackground": true,
             "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#000000",
-            "showMeta": false,
-            "darkBackground": true
+            "overlayColor": "#0b4881",
+            "overlayOpacity": "0.7"
           },
-          "title": "3rd Annual \"Music on the Mountain\"",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<h3>The 3rd Annual occurence of this event will be the largest show in the region. More corps than ever before are going to be performing on August 4th. 5 of which are within the top &nbsp; 10 DCI Drum Corps in the US Open Class</h3><h3><br></h3><ul><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">7th Regiment - New London, CT</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Blue Devils B - Concord, CA</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Legends - Kalamazoo, MI</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Louisiana Stars - Lafayette, LA</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Music City - Nashville, TN</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Raiders - Burlington, NJ</span></li><li><span style=\"font-size: 17px; line-height: 27px; font-family: Roboto, Helvetica, Arial, sans-serif;\">Southwind - Mobile, AL<br></span></li></ul><p><b>Gates will open at 4:30 and the show will start at 7:00</b></p><p><b>Tickets will be available for sale on June 1st&nbsp;</b></p><p><b>Concession Stand opens at 4:30</b></p><p><b>Free shuttle is available from St. Paul's Center to Sheffield High, Starting at 4:30</b></p><p><b>Handicap Parking will be available on the hill</b></p><p><b>!No video or audio recording is permitted during the event!</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_inherit": "header1",
+          "title": "4th Annual \"Music on the Mountain\"",
+          "text": "<p>This is the fourth Annual event, which will be the largest show in the region. More corps than ever before are going to be performing on July 27th. Six of of these corps are within &nbsp;US Open Class in the DCI Drum Corps&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_styles": {
-            ".btn": {
-              "font-size": "25px"
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-3d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": false,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-240-2000x1330.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#347a9f",
+            "overlay": true,
+            "overlayColor": "#061350",
+            "overlayOpacity": "0.6"
+          },
+          "header": "Additional Notices",
+          "items": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "Handicap Parking will be available on the hill"
             },
-            "H1": {
-              "color": "#3d8eb9"
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<p>Free shuttle is available from St. Paul's Center to Sheffield High, Starting at 4:30</p>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<p>Concession Stand opens at 4:30</p>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section__header": {
+              "color": "#ffffff"
+            },
+            ".mbr-reviews__text": {
+              "color": "#000000"
+            },
+            ".mbr-reviews__text P": {
+              "color": "#000000"
             }
           },
-          "_anchor": "header4-1g",
+          "_anchor": "testimonials1-3b",
+          "testimonial": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "Handicap Parking will be available on the hill"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<p>Free shuttle is available from St. Paul's Center to Sheffield High, Starting at 4:30</p>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<p>Concession Stand opens at 4:30</p>"
+            }
+          ]
+        },
+        {
           "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": false,
+            "showCaptions": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-246-2000x1330.jpg",
             "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dci17finals-2000x1125.jpg",
-            "bgColor": "#4c6972",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
+            "bgColor": "#347a9f",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
-            "contentAlign": "center",
             "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#0a0a0a",
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "headerAlign": "left",
+          "header": "Mark your calenders, don't miss the largest show in the region",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "BOOTSTRAP 3",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"bands.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">See the performing Corps<br></a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "RESPONSIVE",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"ticket sales.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Buy Tickets Now<br></a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "WEB FONTS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"about.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">\"Music on the Mountain\" \n<br>Learn more about the event<br></a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".btn": {
+              "font-size": "17px",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-3g"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
             "showTitle": true,
+            "showMeta": false,
             "showText": false,
             "showButtons": true,
-            "showArrow": false
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dci-finals-2000x1125.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.8"
           },
-          "title": "Learn More About Drum Corps International",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"http://www.dci.org/ViewArticle.dbml?DB_OEM_ID=33500&amp;ATCLID=209979117&amp;DB_OEM_ID=33500\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>Learn More</a> "
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2-1280x1024.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Learn More About <br>Drum Corps International",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://www.dci.org/static/about-drum-corps-international\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>Learn More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2v"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sony-fdrax100-b-hdr-ax100-full-hd-handycam-1022654-1000x1000.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#b8312f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#960000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "Attendees are reminded that there is <br>no video or audio recording is permitted during the event!",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-3a"
         },
         {
           "_tags": [
@@ -783,61 +1134,16 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#1d759b",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#347a9f",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "text": "FOLLOW US",
           "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/DCIMusicOnTheMountain/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_styles": {
-            "STRONG": {
-              "color": "#eac70f"
-            },
-            "P": {
-              "text-align": "center",
-              "font-size": "15px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#ffffff"
-            },
-            "B": {
-              "color": "#cbb469"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts2-t",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/16881002-1361666123886211-1459880976-o-2000x1500.jpg",
-            "bgColor": "#3c3c3c",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "Sheffield High School\n6760 U.S. 6 \nSheffield, PA 16347",
-              "placeId": "ChIJ3bDEnHRAzYkRzzdwKZOLiLk",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<b><i>ADDRESS</i></b><br>Sheffield High School<br>6760 U.S. 6 <br>Sheffield, PA 16347<br><span style=\"line-height: 1.7em;\"><b><i>CONTACT</i></b></span><br><b style=\"line-height: 1.7em;\"><i>Email: </i></b><span style=\"line-height: 1.7em;\">sheffieldmusicboosters</span><br><span style=\"line-height: 1.7em;\">@gmail.com</span><br><i><b>Art Lane [Chairman]:</b><br></i>814-730-7022<br><b><i>Kami Repine {Ticket Sales}:</i></b><br>814-688-1558<b><br></b><br>",
-          "text2": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><span style=\"line-height: 1.7em;\">Site Design and Direction</span><br></p><p><span style=\"line-height: 1.7em;\">By Elijah Rutenber</span></p>"
         },
         {
           "_inherit": "menu",
@@ -855,7 +1161,7 @@
               "background": "#347a9f"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#7ac673"
+              "color": "#4c6972"
             },
             ".mbr-brand__name a": {
               "font-family": "'Noto Sans', sans-serif",
@@ -871,19 +1177,19 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-7",
           "_params": {
-            "color": "#347a9f",
-            "hamburgerColor": "#7ac673",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
             "logo": true,
             "showBrand": false,
-            "showButtons": true
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#347a9f",
+            "hamburgerColor": "#4c6972"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/picture1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/dci-logo-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -901,15 +1207,58 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"main page.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"main Page.html#contacts2-t\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"bands.html\">Performing Corps</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\">Ticket Sales</a></li>            ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\" data-toolbar=\"-mbrBtnMove\">Tickets Available Online Now!</a></li>"
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"main page.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">About</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html#contacts2-38\">Contact</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"bands.html\">Performing Corps</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\">Ticket Sales</a></li>              ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\" data-toolbar=\"-mbrBtnMove\">Tickets Available Online : Until July 25th!</a></li> "
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/3-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "350 5th Ave, New York, NY 6760 U.S. 6 \nSheffield, PA 16347 ",
+              "placeId": "ChIJ3bDEnHRAzYkRzzdwKZOLiLk",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>CONTACT \n</b><br>\n<br><i><b>Email: \n</b></i><br>sheffieldmusicboosters@gmail.com <br>\n<br><b><i>Art Lane [Chairman]: \n</i></b><br>814-730-7022<br> \n<br><b><i>Kamie Repine </i></b><b><i>{Ticket Sales}:</i> \n</b><br>814-688-1558",
+          "text2": "<p><b>ADDRESS<i>\n</i></b><br></p><p>\nSheffield High School &nbsp;</p><p>6760 U.S. 6 &nbsp;</p><p>\nSheffield, PA 16347&nbsp;</p><p><br></p><p><br></p><p><br></p><p>Site Design and Direction by<br></p><p>Elijah Rutenber</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-38",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#efefef",
+              "font-size": "15px"
+            },
+            "I": {
+              "font-size": "16px",
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#efefef",
+              "font-size": "16px"
+            }
+          }
         }
       ]
     },
     "ticket sales.html": {
       "settings": {
         "title": "Ticket Sales",
-        "meta_descr": "Sheffieldmusiconthemountain.com. Sheffield music on the mountain."
+        "meta_descr": "sheffieldmusiconthemountain.com sheffield music on the mountain ",
+        "order": 4
       },
       "components": [
         {
@@ -922,7 +1271,7 @@
             },
             ".mbr-article P": {
               "text-align": "center",
-              "color": "#debf8a",
+              "color": "#ffe43c",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "font-size": "20px"
@@ -934,30 +1283,30 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-1p",
           "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": "1",
-            "paddingBottom": "1",
             "showTitle": false,
+            "showMeta": false,
+            "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tickets-3-2000x2000.jpg",
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/carnival-king-red-2-part-raffle-tickets-2000-roll-wlwcnx-clipart-2000x2000.jpg",
-            "bgColor": "#fff",
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
+            "darkBackground": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
-            "showMeta": false,
-            "darkBackground": false
+            "overlayOpacity": "0.4"
           },
           "title": "MODERN STYLES",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>Presold Tickets will be entered into a drawing for : Two tickets to a Pirates game, a night at the Sheraton hotel, and a visa gift card</b></p>",
+          "text": "<p><b>Presold Tickets will be entered into a drawing for :</b></p><p><b> Four Steeler Game Tickets and accomodations!</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -991,30 +1340,34 @@
             },
             "SUP": {
               "font-size": "25px"
+            },
+            "UL": {
+              "font-size": "30px",
+              "color": "#060606"
             }
           },
           "_anchor": "pricing-table1-l",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "firstType": "hidden",
+            "secondType": "green",
+            "thirdType": "orange",
+            "fourthType": "favorite",
+            "fifthType": "hidden",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "showButtons": true,
             "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-219-2000x1330.jpg",
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/16880706-1361666183886205-629338373-o-2000x1500.jpg",
-            "bgColor": "#f0f0f0",
             "bgColorRadio": false,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "firstType": "hidden",
-            "showButtons": true,
-            "secondType": "green",
-            "thirdType": "favorite",
-            "fourthType": "hidden",
-            "fifthType": "hidden"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
           },
           "title1": "STANDARD",
           "currency1": "$",
@@ -1026,131 +1379,235 @@
           "currency2": "$",
           "price2": "8&nbsp;<br><br>",
           "period2": "Preorder",
-          "list2": "<p><b>$10</b></p><p>At Gate</p>",
+          "list2": "<p><b>$8</b></p><p>At Gate</p>",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=8&amp;item_name=Child+Ticket&amp;currency_code=USD\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">Buy</a>",
           "title3": "Adult Ticket",
           "currency3": "$",
-          "price3": "13",
+          "price3": "12",
           "period3": "Preorder",
           "list3": "<p><b>$15</b></p><p>At Gate</p>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=13&amp;item_name=Adult+Ticket&amp;currency_code=USD\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">Buy</a>",
-          "title4": "ULTIMATE",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=12&amp;item_name=Adult+Ticket&amp;currency_code=USD\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">Buy</a>",
+          "title4": "Bundle Pack",
           "currency4": "$",
-          "price4": "0",
-          "period4": "per month",
-          "list4": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>1 TB</b> Bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
-          "title5": "EXTENDED",
-          "currency5": "$",
-          "price5": "0",
-          "period5": "per month",
-          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
+          "price4": "20",
+          "period4": "Total Purchase",
+          "list4": "<ul><li>Purchase to attend both the Johnsonburg and Sheffield Show</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=20&amp;item_name=Bundle+Pack&amp;currency_code=USD\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">Buy</a>",
+          "title5": "Notice",
+          "currency5": "",
+          "price5": "",
+          "period5": "Ticket Sales open until July 25th!",
+          "list5": "",
+          "button5": "<a data-app-btn=\"true\" href=\"about.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">More Information</a>"
         },
         {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#ffffff",
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
-              "font-size": "23px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            },
-            ".mbr-article P": {
-              "text-align": "center",
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "font-size": "18px",
-              "color": "#ffffff"
-            },
-            ".mbr-article UL": {
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-1e",
           "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
+            "showHeader": true,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "columns": "5",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#ba5c34",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
             "overlayColor": "#2d2826",
-            "showMeta": false,
-            "darkBackground": true
+            "overlayOpacity": "0.5"
           },
-          "title": "Tickets available starting June 1st<br>At these locations!",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Gaughn's Drug Store - Warren<br></p><p>Crone's Drug Store - Warren</p><p>Sheffield Pharmacy -Sheffield</p><p>Peterson Hardware - Sheffield</p><p>SMP Pharmacy - Kane</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
+          "headerAlign": "left",
+          "header": "Tickets available starting June 1st\n<div>at these locations!</div>",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Gaughn's Drug Store<br>-Warren",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Crone's Drug Store<br>-Warren",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Sheffield Pharmacy<br>-Sheffield",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Peterson Hardware<br>-Sheffield",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "SMP Pharmacy <br>-Kane",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
+          "_name": "features1",
+          "_anchor": "features1-2o",
           "_styles": {
-            "STRONG": {
-              "color": "#eac70f"
-            },
-            "P": {
-              "text-align": "center",
-              "font-size": "15px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+            ".mbr-section-title .mbr-header__text": {
               "color": "#ffffff"
             },
-            "B": {
-              "color": "#cbb469"
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#ffffff",
+              "font-size": "18px"
             },
-            "SPAN": {
+            ".mbr-section-title .mbr-header__text DIV": {
               "color": "#ffffff"
             }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "23px"
+            }
           },
-          "_anchor": "contacts2-t",
           "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": true,
             "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/16881002-1361666123886211-1459880976-o-2000x1500.jpg",
-            "bgColor": "#3c3c3c",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "Sheffield High School\n6760 U.S. 6 \nSheffield, PA 16347",
-              "placeId": "ChIJ3bDEnHRAzYkRzzdwKZOLiLk",
-              "state": "ok",
-              "stateDetails": ""
-            }
+            "bgColorRadio": true,
+            "bgColor": "#347a9f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text1": "<b><i>ADDRESS</i></b><br>Sheffield High School<br>6760 U.S. 6 <br>Sheffield, PA 16347<br><span style=\"line-height: 1.7em;\"><b><i>CONTACT</i></b></span><br><b style=\"line-height: 1.7em;\"><i>Email: </i></b><span style=\"line-height: 1.7em;\">sheffieldmusicboosters</span><br><span style=\"line-height: 1.7em;\">@gmail.com</span><br><i><b>Art Lane [Chairman]:</b><br></i>814-730-7022<br><b><i>Kamie Repine {Ticket Sales}:</i></b><br>814-688-1558<b><br></b><br>",
-          "text2": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><span style=\"line-height: 1.7em;\">Site Design and Direction</span><br></p><p><span style=\"line-height: 1.7em;\">By Elijah Rutenber</span></p>"
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">Learn More About the Event</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3i"
         },
         {
           "_inherit": "menu",
@@ -1168,7 +1625,7 @@
               "background": "#347a9f"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#7ac673"
+              "color": "#4c6972"
             },
             ".mbr-brand__name a": {
               "font-family": "'Noto Sans', sans-serif",
@@ -1184,19 +1641,19 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-7",
           "_params": {
-            "color": "#347a9f",
-            "hamburgerColor": "#7ac673",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
             "logo": true,
             "showBrand": false,
-            "showButtons": true
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#347a9f",
+            "hamburgerColor": "#4c6972"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/picture1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/dci-logo-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1214,8 +1671,50 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"main page.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"main Page.html#contacts2-t\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"bands.html\">Performing Corps</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\">Ticket Sales</a></li>            ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\" data-toolbar=\"-mbrBtnMove\">Tickets Available Online Now!</a></li>"
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"main page.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">About</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html#contacts2-38\">Contact</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"bands.html\">Performing Corps</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\">Ticket Sales</a></li>              ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\" data-toolbar=\"-mbrBtnMove\">Tickets Available Online : Until July 25th!</a></li> "
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/3-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "350 5th Ave, New York, NY 6760 U.S. 6 \nSheffield, PA 16347 ",
+              "placeId": "ChIJ3bDEnHRAzYkRzzdwKZOLiLk",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>CONTACT \n</b><br>\n<br><i><b>Email: \n</b></i><br>sheffieldmusicboosters@gmail.com <br>\n<br><b><i>Art Lane [Chairman]: \n</i></b><br>814-730-7022<br> \n<br><b><i>Kamie Repine </i></b><b><i>{Ticket Sales}:</i> \n</b><br>814-688-1558",
+          "text2": "<p><b>ADDRESS<i>\n</i></b><br></p><p>\nSheffield High School &nbsp;</p><p>6760 U.S. 6 &nbsp;</p><p>\nSheffield, PA 16347&nbsp;</p><p><br></p><p><br></p><p><br></p><p>Site Design and Direction by<br></p><p>Elijah Rutenber</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-38",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#efefef",
+              "font-size": "15px"
+            },
+            "I": {
+              "font-size": "16px",
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#efefef",
+              "font-size": "16px"
+            }
+          }
         }
       ]
     },
@@ -1223,7 +1722,7 @@
       "settings": {
         "main": true,
         "title": "Main Page",
-        "meta_descr": "Sheffieldmusiconthemountain.com. Sheffield music on the mountain. ",
+        "meta_descr": "sheffieldmusiconthemountain.com sheffield music on the mountain ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1264,83 +1763,54 @@
           },
           "_anchor": "header1-8",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/16880304-1361666340552856-1626310878-o-4-2000x1500.jpg",
-            "bgColor": "#4c6972",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "contentAlign": "center",
-            "overlay": false,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#ffffff",
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "showArrow": false
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-3-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
           },
-          "title": "<span style=\"color: rgb(24, 45, 77); font-family: 'PT Serif', serif;\">3rd</span><i> </i><span style=\"font-weight: normal;\">Annual</span><span style=\"color: rgb(24, 45, 77); font-family: 'PT Serif', serif;\">&nbsp;</span><br><span style=\"font-weight: normal;\">\"</span><span style=\"font-weight: normal;\">M</span><span style=\"font-weight: normal;\">usic&nbsp;</span><span style=\"font-weight: normal;\">on &nbsp;</span><span style=\"font-weight: normal;\">the Mountain\"</span><br><i style=\"font-weight: normal;\">Jr. Drum &amp; Bugle Corps Show</i><br><span style=\"font-weight: normal;\">August 4, 2017</span><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">Starts at &nbsp;7:00</span><br><span style=\"font-weight: normal;\">Opens at 4:30</span><br>",
+          "title": "<span style=\"color: rgb(24, 45, 77); font-family: 'PT Serif', serif;\">4th</span><i>&nbsp;</i><span style=\"font-weight: normal;\">Annual</span><span style=\"color: rgb(24, 45, 77); font-family: 'PT Serif', serif;\">&nbsp;</span><br><span style=\"font-weight: normal;\">\"</span><span style=\"font-weight: normal;\">M</span><span style=\"font-weight: normal;\">usic&nbsp;</span><span style=\"font-weight: normal;\">on &nbsp;</span><span style=\"font-weight: normal;\">the Mountain\"</span><br><i style=\"font-weight: normal;\">DCI Open Class</i><br><span style=\"font-weight: normal;\">July 27, 2018</span><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">Starts at &nbsp;7:00</span><br><span style=\"font-weight: normal;\">Opens at 4:30</span><br><br><br>",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
-          "_inherit": "features1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content4",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "color": "#27aae0"
-            },
-            ".btn": {
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
-              "font-size": "18px"
-            },
-            ".mbr-section__col .mbr-header__text": {
-              "color": "#53abb3",
-              "font-size": "30px",
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
-              "text-align": "center"
-            },
-            ".mbr-section__col .mbr-header__text SPAN": {
-              "color": "#cccccc",
-              "font-size": "30px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content4-19",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "showHeader": true,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": false,
+            "showCaptions": false,
+            "showButtons": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "columns": "3",
             "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-246-2000x1330.jpg",
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/15390832-1154922654602875-2823957064999649008-n-1-2000x2666.jpg",
-            "bgColor": "#fff",
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
             "overlayColor": "#000000",
-            "showHeader": false,
-            "showSubheader": false,
-            "columns": "3",
-            "showImages": false,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": true
+            "overlayOpacity": "0.6"
           },
           "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "header": "Mark your calenders, don't miss the largest show in the region",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -1359,9 +1829,9 @@
               "size": 0
             }
           },
-          "title1": "<span style=\"font-weight: normal;\">Free Shuttle available from St. Paul's Center to</span><br><span style=\"font-weight: normal;\">Sheffield High</span><br><span style=\"font-weight: normal;\">{Starting at 4:30}</span><span style=\"font-weight: normal;\"><br></span>",
-          "caption1": "",
-          "button1": " <a data-app-btn=\"true\" href=\"bands.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">See the performing &nbsp;Corps</a> ",
+          "title1": "BOOTSTRAP 3",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"bands.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-more-horizontal mbr-iconfont mbr-iconfont-btn\"></span><br>See the performing Corps<br></a>",
           "media2": {
             "image": {
               "active": true,
@@ -1379,9 +1849,9 @@
               "size": 0
             }
           },
-          "title2": "\"Mark your calendars\", Don't miss the \"largest show in the Region\"",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"about.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">\"Music on the Mountain\"<br>Learn more about the event<br></a>",
+          "title2": "RESPONSIVE",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"ticket sales.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-cart-add mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span><br>Buy Tickets Now<br></a>",
           "media3": {
             "image": {
               "active": true,
@@ -1399,9 +1869,9 @@
               "size": 0
             }
           },
-          "title3": "<span style=\"font-weight: normal; line-height: 1.1em;\">Handicap Parking available on hill</span><br><i>----------------------</i><br><span style=\"font-weight: normal;\">Concession stand opens at 4:30</span><br>",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"ticket sales.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span><br>&nbsp;Buy Tickets Now<br></a>",
+          "title3": "WEB FONTS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"about.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">\"Music on the Mountain\" \n<br>Learn more about the event<br></a>",
           "media4": {
             "image": {
               "active": true,
@@ -1421,7 +1891,7 @@
           },
           "title4": "UNLIMITED WEBSITES",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -1441,7 +1911,7 @@
           },
           "title5": "TRENDY WEBSITE BLOCKS",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
               "active": true,
@@ -1461,7 +1931,22 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-2g",
+          "_styles": {
+            ".btn": {
+              "font-size": "17px",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
@@ -1479,13 +1964,13 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#1d759b",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#347a9f",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "text": "FOLLOW US",
           "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/DCIMusicOnTheMountain/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
@@ -1506,7 +1991,7 @@
               "background": "#347a9f"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#7ac673"
+              "color": "#4c6972"
             },
             ".mbr-brand__name a": {
               "font-family": "'Noto Sans', sans-serif",
@@ -1522,25 +2007,24 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-7",
           "_params": {
-            "color": "#347a9f",
-            "hamburgerColor": "#7ac673",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
             "logo": true,
             "showBrand": false,
-            "showButtons": true
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#347a9f",
+            "hamburgerColor": "#4c6972"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/picture1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/dci-logo-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
               "link": "main page.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1552,53 +2036,303 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"main page.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"main Page.html#contacts2-t\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"bands.html\">Performing Corps</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\">Ticket Sales</a></li>            ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\" data-toolbar=\"-mbrBtnMove\">Tickets Available Online Now!</a></li>"
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"main page.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">About</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html#contacts2-38\">Contact</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"bands.html\">Performing Corps</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\">Ticket Sales</a></li>              ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\" data-toolbar=\"-mbrBtnMove\">Tickets Available Online : Until July 25th!</a></li> "
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_styles": {
-            "STRONG": {
-              "color": "#eac70f"
-            },
-            "P": {
-              "text-align": "center",
-              "font-size": "15px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#ffffff"
-            },
-            "B": {
-              "color": "#cbb469"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts2-t",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/3-2000x1500.jpg",
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/16881002-1361666123886211-1459880976-o-2000x1500.jpg",
-            "bgColor": "#3c3c3c",
             "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
             "overlay": true,
-            "overlayOpacity": "0.7",
             "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "Sheffield High School\n6760 U.S. 6 \nSheffield, PA 16347",
+              "address": "350 5th Ave, New York, NY 6760 U.S. 6 \nSheffield, PA 16347 ",
               "placeId": "ChIJ3bDEnHRAzYkRzzdwKZOLiLk",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<b><i>ADDRESS</i></b><br>Sheffield High School<br>6760 U.S. 6 <br>Sheffield, PA 16347<br><span style=\"line-height: 1.7em;\"><b><i>CONTACT</i></b></span><br><b style=\"line-height: 1.7em;\"><i>Email: </i></b><span style=\"line-height: 1.7em;\">sheffieldmusicboosters</span><br><span style=\"line-height: 1.7em;\">@gmail.com</span><br><i><b>Art Lane [Chairman]:</b><br></i>814-730-7022<br><b><i>Kamie Repine {Ticket Sales}:</i></b><br>814-688-1558<b><br></b><br>",
-          "text2": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><span style=\"line-height: 1.7em;\">Site Design and Direction</span><br></p><p><span style=\"line-height: 1.7em;\">By Elijah Rutenber</span></p>"
+          "text1": "<b>CONTACT \n</b><br>\n<br><i><b>Email: \n</b></i><br>sheffieldmusicboosters@gmail.com <br>\n<br><b><i>Art Lane [Chairman]: \n</i></b><br>814-730-7022<br> \n<br><b><i>Kamie Repine </i></b><b><i>{Ticket Sales}:</i> \n</b><br>814-688-1558",
+          "text2": "<p><b>ADDRESS<i>\n</i></b><br></p><p>\nSheffield High School &nbsp;</p><p>6760 U.S. 6 &nbsp;</p><p>\nSheffield, PA 16347&nbsp;</p><p><br></p><p><br></p><p><br></p><p>Site Design and Direction by<br></p><p>Elijah Rutenber</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-38",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#efefef",
+              "font-size": "15px"
+            },
+            "I": {
+              "font-size": "16px",
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#efefef",
+              "font-size": "16px"
+            }
+          }
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Staff",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3ed1e5",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc-224-1400x931.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Art Lane : Sheffield Music Boosters Chairman",
+          "text": "<p>Little blurb</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-3r"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3ed1e5",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc-235-1400x931.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "First Responders",
+          "text": "<p>Blirb stuff</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-3s"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#347a9f"
+            },
+            ".mbr-navbar__section": {
+              "background": "#347a9f"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#4c6972"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "20px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#347a9f",
+            "hamburgerColor": "#4c6972"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dci-logo-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "main page.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"main page.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">About</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html#contacts2-38\">Contact</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"bands.html\">Performing Corps</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\">Ticket Sales</a></li>              ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"ticket sales.html\" data-toolbar=\"-mbrBtnMove\">Tickets Available Online : Until July 25th!</a></li> ",
+          "_anchor": "ext_menu-3m"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/3-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "350 5th Ave, New York, NY 6760 U.S. 6 \nSheffield, PA 16347 ",
+              "placeId": "ChIJ3bDEnHRAzYkRzzdwKZOLiLk",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>CONTACT \n</b><br>\n<br><i><b>Email: \n</b></i><br>sheffieldmusicboosters@gmail.com <br>\n<br><b><i>Art Lane [Chairman]: \n</i></b><br>814-730-7022<br> \n<br><b><i>Kamie Repine </i></b><b><i>{Ticket Sales}:</i> \n</b><br>814-688-1558",
+          "text2": "<p><b>ADDRESS<i>\n</i></b><br></p><p>\nSheffield High School &nbsp;</p><p>6760 U.S. 6 &nbsp;</p><p>\nSheffield, PA 16347&nbsp;</p><p><br></p><p><br></p><p><br></p><p>Site Design and Direction by<br></p><p>Elijah Rutenber</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#efefef",
+              "font-size": "15px"
+            },
+            "I": {
+              "font-size": "16px",
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#efefef",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts2-3n"
         }
       ]
     }
