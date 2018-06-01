@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SheffieldMusicontheMountain",
-    "currentPage": "ticket sales.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -17,9 +17,9 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 137,
+    "uniqCompNum": 138,
     "versionPublish": "4.7.2",
-    "favicon": "@PROJECT_PATH@/assets/images/dci-logo-128x1284.png",
+    "favicon": "@PROJECT_PATH@/assets/images/dci-logo-128x1280.png",
     "noImageResize": "",
     "mcShopcart": {
       "email": "sheffieldmusicboosters2@gmail.com",
@@ -715,7 +715,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "sheffieldmusiconthemountain.com sheffield music on the mountain ",
-        "order": 3
+        "order": 1
       },
       "components": [
         {
@@ -1108,7 +1108,7 @@
             "overlayColor": "#960000",
             "overlayOpacity": "0.7"
           },
-          "title": "Attendees are reminded that there is <br>no video or audio recording is permitted during the event!",
+          "title": "Attendees are reminded that there is <br>no video or audio recording permitted during the event!",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
@@ -1117,6 +1117,87 @@
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
           "_anchor": "content5-3a"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": false,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-218-2000x1330.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-218-2000x1330-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-235-2000x1330.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-235-2000x1330-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-221-2000x1330.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-221-2000x1330-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-234-2000x1330.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-234-2000x1330-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-220-2000x1330.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-220-2000x1330-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-233-2000x1330.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-233-2000x1330-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-246-2000x1330.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-246-2000x1330-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-237-2000x1330.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-237-2000x1330-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-3t"
         },
         {
           "_tags": [
@@ -1258,7 +1339,7 @@
       "settings": {
         "title": "Ticket Sales",
         "meta_descr": "sheffieldmusiconthemountain.com sheffield music on the mountain ",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -2087,7 +2168,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Staff",
-        "order": 1
+        "order": 4
       },
       "components": [
         {
