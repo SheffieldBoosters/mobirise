@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SheffieldMusicontheMountain",
-    "currentPage": "about.html",
+    "currentPage": "ticket sales.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1387,7 +1387,7 @@
           },
           "title": "MODERN STYLES",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>Presold Tickets will be entered into a drawing for :</b></p><p><b> Four Steeler Game Tickets and accomodations!</b></p>",
+          "text": "<p><b>Presold Tickets will be entered into a drawing for :</b></p><p><b> Four Steelers Game Tickets and accomodations!</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
