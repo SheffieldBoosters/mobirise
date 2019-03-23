@@ -1299,6 +1299,17 @@ body {
     flex: auto!important;
   }
 }
+.jq-selectbox li:hover,
+.jq-selectbox li.selected {
+  background-color: #149dcc;
+  color: #ffffff;
+}
+.jq-selectbox .jq-selectbox__trigger-arrow {
+  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
+}
+.jq-selectbox:hover .jq-selectbox__trigger-arrow {
+  border-top-color: #149dcc;
+}
 .cid-riunCVFw0n {
   background-image: url("../../../assets/images/1-1-2000x1500.jpg");
 }
@@ -2411,7 +2422,7 @@ body {
 }
 .cid-rhD3VNY9ln {
   padding-top: 75px;
-  padding-bottom: 15px;
+  padding-bottom: 30px;
   background-color: #073b4c;
 }
 .cid-rigPj9JvJ5 {
@@ -2769,19 +2780,19 @@ body {
 .cid-rjHjaX7SGe H4 {
   color: #0f7699;
 }
-.cid-rjNV4nSdaS {
+.cid-rjNXDssxBJ {
   padding-top: 15px;
   padding-bottom: 0px;
   background: linear-gradient(0deg, #073b4c, #107293);
 }
-.cid-rjNV4nSdaS .mbr-iconfont-social {
+.cid-rjNXDssxBJ .mbr-iconfont-social {
   font-size: 32px;
   color: #94d6ec;
 }
-.cid-rjNV4nSdaS .social-list a:focus {
+.cid-rjNXDssxBJ .social-list a:focus {
   text-decoration: none;
 }
-.cid-rjNV4nSdaS H2 {
+.cid-rjNXDssxBJ H2 {
   color: #ffffff;
 }
 .cid-qTErcTtDvC {
@@ -2807,7 +2818,7 @@ body {
 .cid-rfQLYU7o48 {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/3-2000x15002.jpg");
+  background-image: url("../../../assets/images/3-2000x15001.jpg");
 }
 @media (max-width: 767px) {
   .cid-rfQLYU7o48 .content {
@@ -3280,7 +3291,7 @@ body {
 }
 .cid-rhCP5vFv4t {
   padding-top: 135px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/sheffield-school-front-1500x803.jpg");
 }
 .cid-rhCP5vFv4t H1 {
@@ -3483,25 +3494,25 @@ body {
 .cid-rhPLZ6EVJ6 .mbr-gallery-item > div > span {
   text-align: center;
 }
-.cid-rjNV8oAlUF {
+.cid-rjNXK8SwOA {
   padding-top: 15px;
   padding-bottom: 0px;
   background: linear-gradient(0deg, #073b4c, #107293);
 }
-.cid-rjNV8oAlUF .mbr-iconfont-social {
+.cid-rjNXK8SwOA .mbr-iconfont-social {
   font-size: 32px;
   color: #94d6ec;
 }
-.cid-rjNV8oAlUF .social-list a:focus {
+.cid-rjNXK8SwOA .social-list a:focus {
   text-decoration: none;
 }
-.cid-rjNV8oAlUF H2 {
+.cid-rjNXK8SwOA H2 {
   color: #ffffff;
 }
 .cid-rfQM4oL35O {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/3-2000x15002.jpg");
+  background-image: url("../../../assets/images/3-2000x15001.jpg");
 }
 @media (max-width: 767px) {
   .cid-rfQM4oL35O .content {
@@ -3974,7 +3985,7 @@ body {
 }
 .cid-rjxpDxkMIQ {
   padding-top: 120px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #073b4c;
 }
 .cid-rjxpDxkMIQ .mbr-section-subtitle {
@@ -4127,7 +4138,7 @@ body {
 }
 .cid-qTEvx7H5F2 {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #1b3a49;
 }
 .cid-qTEvx7H5F2 .line {
@@ -4158,6 +4169,18 @@ body {
 }
 .cid-qTEvx7H5F2 .section-text B {
   color: #ffffff;
+}
+.cid-rluJ6inF7r {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #1b3a49;
+}
+.cid-rluJ6inF7r .mbr-text {
+  color: #767676;
+}
+.cid-rluJ6inF7r .mbr-text P {
+  color: #ffffff;
+  text-align: center;
 }
 .cid-qTEuY0xfTS {
   padding-top: 30px;
@@ -4254,25 +4277,25 @@ body {
   padding-bottom: 15px;
   background-color: #107293;
 }
-.cid-rjNVcmd0Hr {
+.cid-rjNXNIHgE2 {
   padding-top: 15px;
   padding-bottom: 0px;
   background: linear-gradient(0deg, #073b4c, #107293);
 }
-.cid-rjNVcmd0Hr .mbr-iconfont-social {
+.cid-rjNXNIHgE2 .mbr-iconfont-social {
   font-size: 32px;
   color: #94d6ec;
 }
-.cid-rjNVcmd0Hr .social-list a:focus {
+.cid-rjNXNIHgE2 .social-list a:focus {
   text-decoration: none;
 }
-.cid-rjNVcmd0Hr H2 {
+.cid-rjNXNIHgE2 H2 {
   color: #ffffff;
 }
 .cid-rfQLSuD3Ee {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/3-2000x15002.jpg");
+  background-image: url("../../../assets/images/3-2000x15001.jpg");
 }
 @media (max-width: 767px) {
   .cid-rfQLSuD3Ee .content {
@@ -4792,7 +4815,7 @@ body {
 .cid-rjHM5S9Uf3 {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/3-2000x15002.jpg");
+  background-image: url("../../../assets/images/3-2000x15001.jpg");
 }
 @media (max-width: 767px) {
   .cid-rjHM5S9Uf3 .content {
