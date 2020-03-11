@@ -1577,7 +1577,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-text": {
-              "color": "#767676"
+              "color": "#000000"
             },
             "h4": {
               "text-align": "center"
